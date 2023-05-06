@@ -1,0 +1,14 @@
+C:\Projeto\ReactAPI\Trab_Grafos\bin\Debug\netcoreapp3.1\Trab_Grafos.exe
+C:\Projeto\ReactAPI\Trab_Grafos\bin\Debug\netcoreapp3.1\Trab_Grafos.deps.json
+C:\Projeto\ReactAPI\Trab_Grafos\bin\Debug\netcoreapp3.1\Trab_Grafos.runtimeconfig.json
+C:\Projeto\ReactAPI\Trab_Grafos\bin\Debug\netcoreapp3.1\Trab_Grafos.runtimeconfig.dev.json
+C:\Projeto\ReactAPI\Trab_Grafos\bin\Debug\netcoreapp3.1\Trab_Grafos.dll
+C:\Projeto\ReactAPI\Trab_Grafos\bin\Debug\netcoreapp3.1\Trab_Grafos.pdb
+C:\Projeto\ReactAPI\Trab_Grafos\obj\Debug\netcoreapp3.1\Trab_Grafos.csproj.AssemblyReference.cache
+C:\Projeto\ReactAPI\Trab_Grafos\obj\Debug\netcoreapp3.1\Trab_Grafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\ReactAPI\Trab_Grafos\obj\Debug\netcoreapp3.1\Trab_Grafos.AssemblyInfoInputs.cache
+C:\Projeto\ReactAPI\Trab_Grafos\obj\Debug\netcoreapp3.1\Trab_Grafos.AssemblyInfo.cs
+C:\Projeto\ReactAPI\Trab_Grafos\obj\Debug\netcoreapp3.1\Trab_Grafos.csproj.CoreCompileInputs.cache
+C:\Projeto\ReactAPI\Trab_Grafos\obj\Debug\netcoreapp3.1\Trab_Grafos.dll
+C:\Projeto\ReactAPI\Trab_Grafos\obj\Debug\netcoreapp3.1\Trab_Grafos.pdb
+C:\Projeto\ReactAPI\Trab_Grafos\obj\Debug\netcoreapp3.1\Trab_Grafos.genruntimeconfig.cache
